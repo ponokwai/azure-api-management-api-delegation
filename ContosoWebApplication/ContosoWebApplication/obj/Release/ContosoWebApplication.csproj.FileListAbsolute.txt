@@ -56,7 +56,6 @@ C:\Projects\ALAT\azure-api-management-api-delegation\ContosoWebApplication\Conto
 C:\Projects\ALAT\azure-api-management-api-delegation\ContosoWebApplication\ContosoWebApplication\bin\Microsoft.Owin.Security.Google.xml
 C:\Projects\ALAT\azure-api-management-api-delegation\ContosoWebApplication\ContosoWebApplication\bin\Microsoft.Owin.Security.Twitter.xml
 C:\Projects\ALAT\azure-api-management-api-delegation\ContosoWebApplication\ContosoWebApplication\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-C:\Projects\ALAT\azure-api-management-api-delegation\ContosoWebApplication\ContosoWebApplication\obj\Release\ContosoWebApplication.csprojAssemblyReference.cache
 C:\Projects\ALAT\azure-api-management-api-delegation\ContosoWebApplication\ContosoWebApplication\obj\Release\ContosoWebApplication.csproj.CoreCompileInputs.cache
 C:\Projects\ALAT\azure-api-management-api-delegation\ContosoWebApplication\ContosoWebApplication\obj\Release\ContosoWebApplication.csproj.CopyComplete
 C:\Projects\ALAT\azure-api-management-api-delegation\ContosoWebApplication\ContosoWebApplication\obj\Release\ContosoWebApplication.dll

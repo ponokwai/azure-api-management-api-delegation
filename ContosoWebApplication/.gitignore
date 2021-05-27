@@ -13,6 +13,10 @@
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
+# remove bin
+ContosoWebApplication/ContosoWebApplication/bin/
+ContosoWebApplication/bin/
+
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
@@ -195,6 +199,10 @@ PublishScripts/
 # Microsoft Azure Build Output
 csx/
 *.build.csdef
+
+# remove bin 
+ContosoWebApplication/bin/
+ContosoWebApplication/ContosoWebApplication/bin/
 
 # Microsoft Azure Emulator
 ecf/
